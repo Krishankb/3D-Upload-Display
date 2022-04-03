@@ -7,3 +7,9 @@ Instructions to run
 2. Have the python installed and required libraries such as flask preinstalled
 3. Run 'python backend.py'
 4. Server will run on the host with the URL provided.
+#
+#
+# Languages and Libraries
+-Python (Flask,os)
+-HTML
+-Javascript(THREE.js)
